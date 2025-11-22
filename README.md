@@ -30,7 +30,7 @@ A complete multi-tenant SaaS file storage platform built with pure PHP and MySQL
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/yourusername/splashdrive.git
+git clone https://github.com/ahmedsaadawi13/splashdrive.git
 cd splashdrive
 ```
 
@@ -501,7 +501,7 @@ php tests/basic_test.php
 
 2. **Deploy Code**
    ```bash
-   git clone https://github.com/yourusername/splashdrive.git /var/www/splashdrive
+   git clone https://github.com/ahmedsaadawi13/splashdrive.git /var/www/splashdrive
    cd /var/www/splashdrive
    ```
 
@@ -541,7 +541,7 @@ This project is open-source and available under the MIT License.
 
 For issues and questions:
 - Create an issue on GitHub
-- Email: support@splashdrive.com
+- Email: ahmed.sha3ban13@gmail.com
 
 ## Contributing
 
