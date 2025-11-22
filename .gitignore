@@ -1,0 +1,28 @@
+# FILE: /.gitignore
+
+# Environment files
+.env
+
+# Upload files
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Composer
+/vendor/
+
+# Temporary files
+/tmp/
